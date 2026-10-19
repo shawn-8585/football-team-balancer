@@ -1,0 +1,1 @@
+{"name": "Football Team Balancer", "short_name": "Football Teams", "start_url": "./", "display": "standalone", "background_color": "#f5f7f5", "theme_color": "#145c42", "icons": [{"src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any"}]}
