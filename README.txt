@@ -6,3 +6,5 @@ Football Team Balancer v2 - PUBLIC deployment package
 5. Face recognition is not implemented in v2.
 
 Exported JSON filename is always football-players.json.
+
+Version 2.3: After JSON import, all players are unselected regardless of backup selection flags.
