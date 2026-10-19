@@ -4,3 +4,5 @@ Football Team Balancer v2 - PUBLIC deployment package
 3. Import private football-players-private.json from iPhone Files (DO NOT upload this file to GitHub).
 4. Data auto-saves in IndexedDB. Export JSON backups regularly.
 5. Face recognition is not implemented in v2.
+
+Exported JSON filename is always football-players.json.
