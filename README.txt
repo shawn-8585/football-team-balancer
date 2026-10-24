@@ -8,3 +8,5 @@ Football Team Balancer v2 - PUBLIC deployment package
 Exported JSON filename is always football-players.json.
 
 Version 2.3: After JSON import, all players are unselected regardless of backup selection flags.
+
+Version 2.4: Tap anywhere on a player row (except Edit) to toggle selection.
