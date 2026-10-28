@@ -1,12 +1,7 @@
-Football Team Balancer v2 - PUBLIC deployment package
-1. Upload ONLY contents of this ZIP to GitHub Pages. No player data is included.
-2. Open site on iPhone Safari over HTTPS.
-3. Import private football-players-private.json from iPhone Files (DO NOT upload this file to GitHub).
-4. Data auto-saves in IndexedDB. Export JSON backups regularly.
-5. Face recognition is not implemented in v2.
-
-Exported JSON filename is always football-players.json.
-
-Version 2.3: After JSON import, all players are unselected regardless of backup selection flags.
-
-Version 2.4: Tap anywhere on a player row (except Edit) to toggle selection.
+Football Team Balancer v2.5 — 10-point ratings
+Public GitHub Pages deployment only. No private player records included.
+Ratings: 0 to 10, increments of 0.5, select-only.
+Existing 5-point IndexedDB records are automatically migrated once.
+JSON export: football-players.json, schemaVersion 3.
+Legacy schemaVersion 1/2 JSON is converted upon import.
+Keep private player JSON off public GitHub.
